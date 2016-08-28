@@ -43,9 +43,7 @@ check demo/index.html file
 Hijri.picker.options={
 	format:
 	{
-		day:['dddd','iDD'],
-		month:['iMMMM'],
-		year:['iYYYY'],
+		show:'iYYYY-iMM-iDD',
 		input:'YYYYMMDD',
 	}
 }
