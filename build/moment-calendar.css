@@ -22,8 +22,9 @@ author emehdy@gmail.com
 .date-container {
     padding: 0px 20px;   
 }
-.date-container .controls {margin-bottom:10px;}
+.date-container .controls {margin-bottom:10px;direction:ltr;}
 .date-container .controls input{width:70px;}
+.date-container .controls .input-sm{    line-height: normal;}
 .date-container .calendar td[set_date]{cursor:pointer}
 .moment-calendar h2, .moment-calendar h4 {
     margin-top: 10px;
